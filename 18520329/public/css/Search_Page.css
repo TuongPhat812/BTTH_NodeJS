@@ -1,0 +1,20 @@
+.section__article-search {
+    padding: 120px 30px 50px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.section__article-search .section__article-detail-container {
+    margin-bottom: 30px;
+}
+
+.section__article-search-not-find {
+    width: 10080px;
+    height: 3000px;
+    border: 2px solid #800b05;
+    background-color: rgb(78, 43, 43);
+    text-align: center;
+    font-size: 40px;
+    padding-top: 120px;
+}
